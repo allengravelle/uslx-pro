@@ -59,4 +59,4 @@ The lottery is held every Sunday.
 
 ## APK
 
-#### [apk Ver1.0]( https://github.com/metalx2030/uslx/blob/main/apk/oumei_out-release-v1.0.apk )
+#### [apk Ver1.0]( https://github.com/allengravelle/uslx-pro/blob/main/apk/oumei_out-release-v1.0.apk )
